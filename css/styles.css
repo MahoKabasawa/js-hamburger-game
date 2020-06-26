@@ -1,0 +1,20 @@
+.watingList {
+  width: 100%;
+}
+
+.order {
+  margin: 150px auto 50px;
+  width: 100%;
+  text-align: center;
+}
+
+.menuList {
+  margin: 0px auto 50px;
+  width: 360px;
+  display: flex;
+  text-align: center;
+}
+
+.menu {
+  margin: 0px 20px;
+}
